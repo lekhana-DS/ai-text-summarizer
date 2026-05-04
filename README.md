@@ -44,8 +44,7 @@ This project provides a web-based tool for **Abstractive Summarization**. Unlike
 - `README.md`: Project documentation.
 
 ## 📊 Sample Output
-**Input:** A 500-word technical methodology on disease prediction using SVM and Random Forest.
-**Summary:** The AI successfully condenses the four stages of the methodology (data collection, model development, evaluation, and implementation) into a concise three-sentence paragraph without losing technical context.
+<img width="960" height="435" alt="image" src="https://github.com/user-attachments/assets/1e97663f-48c4-4740-b488-f871bd5469ee" />
 
 ## ⚖️ License
 This project is licensed under the MIT License - see the LICENSE file for details.
